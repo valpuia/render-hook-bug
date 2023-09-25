@@ -9,8 +9,8 @@
 ## How to
 
 After running the project, notice the theme-switcher on right side of navigation
-- Click link (Inside page) on Dashboard page and you can see the render-hook is gone inside that page
-- If you navigate from top navigation and the render-hook is still displaying
+- Click link (Inside page) on Dashboard page and you can see the render-hook is gone from navigation
+- If you navigate from pages (not custom url) and the render-hook is displaying correctly
 
 ## Play along
 
