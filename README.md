@@ -21,4 +21,4 @@ After running the project, notice the theme-switcher on right side of navigation
 
 ## Main problem
 
-After investigationg more, it ignored panel configuration while accessing pages from custom url
+After investigationg more, I think it ignored panel configuration while accessing pages from custom url
